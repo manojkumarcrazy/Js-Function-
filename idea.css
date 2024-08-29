@@ -2,7 +2,7 @@
     margin: 30px;
     display: flex;
     justify-content: center;
-    color:cadetblue;
+    color:yellow;
     font-size: 34px;
     text-align: center;
     font-weight: 200;
@@ -15,4 +15,14 @@
 }
 h1{
     font-family:'Gameofsquids' ,serif ;
+}
+#he{
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    display: flex;
+    color:violet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    margin: 50px;
 }
